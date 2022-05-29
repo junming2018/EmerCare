@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "739849564876",
+    "project_id": "ace-tine-347515",
+    "storage_bucket": "ace-tine-347515.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:739849564876:android:91ba13e26cece0348a8869",
+        "android_client_info": {
+          "package_name": "com.example.emercare"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "739849564876-cqcji72iq0lt9uf7iv8scken8186pjg5.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBM2IzZ0HhlrrhnNla_znKaNJjLr8S_bHY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "739849564876-cqcji72iq0lt9uf7iv8scken8186pjg5.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
