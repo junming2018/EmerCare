@@ -2,9 +2,8 @@
 
 First Aid and Healthcare Mobile Application: EmerCare
 
-[EmerCare APK for Android][EmerCare APK]
-
-[EmerCare Introduction Video][EmerCare Introduction Video]
+• [EmerCare APK for Android][EmerCare APK]
+• [EmerCare Introduction Video][EmerCare Introduction Video]
 
 ---
 
